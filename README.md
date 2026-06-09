@@ -64,7 +64,11 @@ Then open `http://localhost:5173` in your browser.
 
 ## 📸 Screenshots
 
-> Add screenshots of your gallery here after deployment
+<img width="1919" height="883" alt="image_2026-06-09_14-20-13" src="https://github.com/user-attachments/assets/d5c795f8-150c-4c4e-a53f-5520d152d572" />
+<img width="1918" height="1028" alt="image_2026-06-09_14-20-56" src="https://github.com/user-attachments/assets/a66201a7-af16-442a-8ae3-e56a73ff9709" />
+<img width="1919" height="1064" alt="image_2026-06-09_14-21-33" src="https://github.com/user-attachments/assets/1bf98a3e-ca14-4b55-9a0f-29178cb647f7" />
+<img width="1919" height="1025" alt="image_2026-06-09_14-21-48" src="https://github.com/user-attachments/assets/0f4596b5-360d-493e-84db-d84640bdac50" />
+
 
 ---
 
