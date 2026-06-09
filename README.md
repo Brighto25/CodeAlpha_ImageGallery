@@ -89,7 +89,7 @@ Then open `http://localhost:5173` in your browser.
 
 **Bright Kwame Addaney**
 - GitHub: [@Brighto25](https://github.com/Brighto25)
-- LinkedIn: [bright-addaney](https://linkedin.com/in/bright-addaney-83139b358)
+- LinkedIn: [Bright Addaney](https://linkedin.com/in/bright-addaney-83139b358)
 
 ---
 
